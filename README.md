@@ -32,10 +32,10 @@ Underwater active landmarks(UALs) are widely used for short-range underwater nav
 <img width="650" height="291" src="assets/lightpos.png">
 </p>
 <p align="center">
-<img width="650" height="291" src="assets/lightorientation.png">
+<img width="650" height="362" src="assets/lightorientation.png">
 </p>
 <p align="center">
-<img width="650" height="291" src="assets/config.png">
+<img width="650" height="166" src="assets/config.png">
 </p>
 
 
