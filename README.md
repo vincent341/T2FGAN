@@ -16,7 +16,7 @@ Detection and Docking</h1>
 ## Introduction
 
 Underwater active landmarks(UALs) are widely used for short-range underwater navigation in underwater robotics tasks. Detection of UALs is challenging due to large variance of underwater environments. Domain shift is a key problem in the detection of UALs. The model trained using images obtained in waterpool degrades when it is used in lakes or oceans due to that the training set lacks statistical diversity. To solve this problem, a generative adversarial network T2FGAN was proposed to learn generative models of underwater images, and use the generated underwater images to improve detection performance. T2FGAN can generate underwater images according to different water quality, illumination, pose and landmark configurations. 
-<---! This is an implementation of our work T2FGAN. T2FGAN is able to generate images of underwater active landmarks with arbitary particular water quality, illumination, pose and landmark configurations (WIPCs). Some codes are borrowed from [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow).-->
+<!-- This is an implementation of our work T2FGAN. T2FGAN is able to generate images of underwater active landmarks with arbitary particular water quality, illumination, pose and landmark configurations (WIPCs). Some codes are borrowed from [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow).-->
 
 ## The Architecture of T2FGAN
 <p align="center">
