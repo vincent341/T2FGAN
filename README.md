@@ -20,13 +20,13 @@ Underwater active landmarks(UALs) are widely used for short-range underwater nav
 
 ## The Architecture of T2FGAN
 <p align="center">
-<img width="500" height="224" src="assets/arc.png">
+<img width="650" height="291" src="assets/arc.png">
 </p>
 
 ## Main Results
 ### The Generated Images
 <p align="center">
-<img width="500" height="224" src="assets/waterpro.png">
+<img width="650" height="291" src="assets/waterpro.png">
 </p>
 
 ### The Improvement of Detection Performance Brought by T2FGAN
