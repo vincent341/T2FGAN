@@ -18,7 +18,7 @@ Detection and Docking</h1>
 This is an implementation of our work T2FGAN. T2FGAN is able to generate images of underwater active landmarks with arbitary particular water quality, illumination, pose and landmark configurations (WIPCs). Some codes are borrowed from [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow).
 
 ## The architecture of T2FGAN
-
+![Image of arc]("assets/arc.png")
 ## Main results
 ### The generated images
 ### The improvement of detection performance brought by T2FGAN
