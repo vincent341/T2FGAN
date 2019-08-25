@@ -9,9 +9,9 @@ Detection and Docking</h1>
 ## Table of Contents
 0. [Introduction](#Introduction)
 0. [Implementation](#Implementation)
-0. [Prerequists](#Prerequists)
-0. [Models](#Models)
-0. [Running](#Running)
+0.0. [Prerequists](#Prerequists)
+0.0. [Models](#Models)
+0.0. [Running](#Running)
 0. [Contact](#Contact)
 ## Introduction
 
