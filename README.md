@@ -1,5 +1,9 @@
-# T2FGAN
---------------------- 
+<h1 align="center">
+  <a name="logo" href="http://www.vCloudInfo.com/tag/iot"><img src="assets/twitter_header_photo_2.png" alt="A Generative Model of Underwater Images for Active Landmark
+Detection and Docking" width="200"></a>
+  <br>
+  Bear Stone Smart Home Documentation
+</h1>--------------------- 
 by Shuang Liu, Mete Ozay, Hongli Xu, Yang Lin, Okatani Takayuki
 ### Table of Contents
 0. [Introduction](#Introduction)
