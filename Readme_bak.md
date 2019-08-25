@@ -8,7 +8,6 @@ Detection and Docking</h1>
 
 ## Table of Contents
 0. [Introduction](#Introduction)
-0. [Implementation](#Implementation)
 0. [Prerequists](#Prerequists)
 0. [Models](#Models)
 0. [Running](#Running)
@@ -17,13 +16,12 @@ Detection and Docking</h1>
 
 This is an implementation of our work T2FGAN. T2FGAN is able to generate images of underwater active landmarks with arbitary particular water quality, illumination, pose and landmark configurations (WIPCs). Some codes are borrowed from [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow).
 
-## Implementation
-### Prerequisites
+## Prerequisites
   - Python 3.5
   - tensorflow 1.9.0
   - opencv 3.4
   - shapely
-### Models 
+## Models 
 The trained model can be downloaded [here](http://vision.is.tohoku.ac.jp/~liushuang/tank2fieldGAN/model/).
 ## Running
 0. The model files provided in [Models](#Models) are neccesary for running. Unzip the model folder and copy the folder to "$currentpath/model/". 
