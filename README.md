@@ -5,7 +5,7 @@ Detection and Docking" width="200"></a>
 A Generative Model of Underwater Images for Active Landmark
 Detection and Docking</h1>
 <h4 align="center">by Shuang Liu, Mete Ozay, Hongli Xu, Yang Lin, Okatani Takayuki</h4>
-### Table of Contents
+## Table of Contents
 0. [Introduction](#Introduction)
 0. [Prerequists](#Prerequists)
 0. [Models](#Models)
