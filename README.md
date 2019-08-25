@@ -41,7 +41,7 @@ Underwater active landmarks(UALs) are widely used for short-range underwater nav
 
 ### The Improvement of Detection Performance Brought by T2FGAN
 <p align="center">
-<img width="650" height="291" src="assets/ap.png">
+<img width="550" height="400" src="assets/ap.png">
 </p>
 
 ### Field Experiments 
