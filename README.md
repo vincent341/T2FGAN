@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a name="logo" href="http://www.vCloudInfo.com/tag/iot"><img src="assets/twitter_header_photo_2.png" alt="A Generative Model of Underwater Images for Active Landmark
-Detection and Docking" width="200"></a>
+  <a name="logo"><img src="assets/facebook_cover_photo_2.png" alt="A Generative Model of Underwater Images for Active Landmark
+Detection and Docking" width="800"></a>
   <br>
 A Generative Model of Underwater Images for Active Landmark
 Detection and Docking</h1>
