@@ -7,12 +7,12 @@ Detection and Docking</h1>
 <h4 align="center">by <a href="https://github.com/vincent341/ShuangLiu.cv/blob/master/Resume.md">Shuang Liu</a>, Mete Ozay, Hongli Xu, Yang Lin, Okatani Takayuki</h4>
 
 ## Table of Contents
-0. [Introduction](#Introduction)
-0. [Implementation](#Implementation)
-  0. [Prerequists](#Prerequists)
-  0. [Models](#Models)
-  0. [Running](#Running)
-0. [Contact](#Contact)
+* [Introduction](#Introduction)
+* [Implementation](#Implementation)
+  * [Prerequists](#Prerequists)
+  * [Models](#Models)
+  * [Running](#Running)
+* [Contact](#Contact)
 ## Introduction
 
 This is an implementation of our work T2FGAN. T2FGAN is able to generate images of underwater active landmarks with arbitary particular water quality, illumination, pose and landmark configurations (WIPCs). Some codes are borrowed from [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow).
