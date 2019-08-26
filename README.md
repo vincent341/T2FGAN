@@ -63,7 +63,7 @@ T2FGAN was further validated by a vision-based underwater docking (VBUD) task in
 
 [![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC)
 ## Implementation
-### Paper Link
+### [Paper Link]](https://drive.google.com/file/d/1y3VigDZ97G7eYjjlg-eRXrXS4u98Ajum/view?usp=sharing)
 [Pdf](https://drive.google.com/file/d/1y3VigDZ97G7eYjjlg-eRXrXS4u98Ajum/view?usp=sharing)
 ### Prerequisites
   - Python 3.5
