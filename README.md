@@ -26,24 +26,24 @@ Underwater active landmarks(UALs) are widely used for short-range underwater nav
 ## Main Results
 ### The Generated Images
 <p align="center">
-<img width="650" height="280" src="assets/waterpro_re.png">
+<img width="650" height="258" src="assets/waterpro_re.png">
 <br>
-    <em>Fig. 2: The minimum dominating set of a graph</em>
+    <em>Fig. 1: Generated images with different water properties</em>
 </p>
 <p align="center">
-<img width="650" height="333" src="assets/lightpos_re.png">
+<img width="650" height="261" src="assets/lightpos_re.png">
 <br>
-    <em>Fig. 2: The minimum dominating set of a graph</em>
+    <em>Fig. 2: Generated images with different light source potitions</em>
 </p>
 <p align="center">
-<img width="650" height="362" src="assets/lightorientation_re.png">
+<img width="650" height="339" src="assets/lightorientation_re.png">
 <br>
-    <em>Fig. 2: The minimum dominating set of a graph</em>
+    <em>Fig. 3: Generated images with different orientations</em>
 </p>
 <p align="center">
-<img width="650" height="362" src="assets/config_re.png">
+<img width="650" height="131" src="assets/config_re.png">
 <br>
-    <em>Fig. 2: The minimum dominating set of a graph</em>
+    <em>Fig. 4: Generated images with different configurations</em>
 </p>
 
 ### The Improvement of Detection Performance Brought by T2FGAN
