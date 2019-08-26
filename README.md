@@ -61,7 +61,7 @@ T2FGAN was further validated by a vision-based underwater docking (VBUD) task in
     <em>Fig. 6: Left: the trajectories of four runs in field experiments. Right: the process of the first run.</em>
 </p>
 
-[![Watch the video](https://octodex.github.com/images/yaktocat.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC)
+[![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC)
 ## Implementation
 ### Paper Link
 [Pdf](https://drive.google.com/file/d/1y3VigDZ97G7eYjjlg-eRXrXS4u98Ajum/view?usp=sharing)
