@@ -27,9 +27,21 @@ Underwater active landmarks(UALs) are widely used for short-range underwater nav
 ### The Generated Images
 <p align="center">
 <img width="650" height="280" src="assets/waterpro_re.png">
+<br>
+    <em>Fig. 2: The minimum dominating set of a graph</em>
+</p>
+<p align="center">
 <img width="650" height="333" src="assets/lightpos_re.png">
+<br>
+    <em>Fig. 2: The minimum dominating set of a graph</em>
+</p>
+<p align="center">
 <img width="650" height="362" src="assets/lightorientation_re.png">
-<img width="650" height="166" src="assets/config_re.png">
+<br>
+    <em>Fig. 2: The minimum dominating set of a graph</em>
+</p>
+<p align="center">
+<img width="650" height="362" src="assets/config_re.png">
 <br>
     <em>Fig. 2: The minimum dominating set of a graph</em>
 </p>
