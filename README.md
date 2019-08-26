@@ -60,8 +60,10 @@ T2FGAN was further validated by a vision-based underwater docking (VBUD) task in
 <br>
     <em>Fig. 6: Left: the trajectories of four runs in field experiments. Right: the process of the first run.</em>
 </p>
-
+<br>[![Video]({"assets/videoshot.png"})]({https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC} "Field Experiments")
 ## Implementation
+### Paper Link
+[Pdf](https://drive.google.com/file/d/1y3VigDZ97G7eYjjlg-eRXrXS4u98Ajum/view?usp=sharing)
 ### Prerequisites
   - Python 3.5
   - Tensorflow 1.9.0
