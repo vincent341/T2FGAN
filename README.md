@@ -54,6 +54,12 @@ Underwater active landmarks(UALs) are widely used for short-range underwater nav
 </p>
 
 ### Field Experiments 
+T2FGAN was further validated by a vision-based underwater docking (VBUD) task in field experiments, in Qiandao lake, China. The results of field experiments are shown below.
+<br><p align="center">
+<img width="650" height="212" src="assets/traj.png">
+<br>
+    <em>Fig. 6: Left: the trajectories of four runs in field experiments. Right: the process of the first run.</em>
+</p>
 
 ## Implementation
 ### Prerequisites
