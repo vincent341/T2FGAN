@@ -8,8 +8,7 @@ Detection and Docking</h1>
 
 ## Table of Contents
 * [Introduction](#Introduction)
-* [Architechture](#The Architecture of T2FGAN
-)
+* [Architechture](#The Architecture of T2FGAN)
 * [Main Results](#Main Results)
   * [The Generated Images](#The Generated Images)
   * [The Improvement of Detection Performance Brought by T2FGAN](#The Improvement of Detection Performance Brought by T2FGAN)
@@ -25,12 +24,15 @@ Underwater active landmarks(UALs) are widely used for short-range underwater nav
 <!-- This is an implementation of our work T2FGAN. T2FGAN is able to generate images of underwater active landmarks with arbitary particular water quality, illumination, pose and landmark configurations (WIPCs). Some codes are borrowed from [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow).-->
 
 ## The Architecture of T2FGAN
+
 <p align="center">
 <img width="650" height="291" src="assets/arc.png">
 </p>
 
 ## Main Results
+
 ### The Generated Images
+
 <p align="center">
 <img width="650" height="258" src="assets/waterpro_re.png">
 <br>
@@ -60,6 +62,7 @@ Underwater active landmarks(UALs) are widely used for short-range underwater nav
 </p>
 
 ### Field Experiments 
+
 T2FGAN was further validated by a vision-based underwater docking (VBUD) task in field experiments, in Qiandao lake, China. The results of field experiments are shown below.
 <br><p align="center">
 <img width="650" height="212" src="assets/traj.png">
@@ -68,7 +71,9 @@ T2FGAN was further validated by a vision-based underwater docking (VBUD) task in
 </p>
 
 [![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC)
+
 ## Implementation
+
 ### Paper Link
 [Pdf](https://drive.google.com/file/d/1y3VigDZ97G7eYjjlg-eRXrXS4u98Ajum/view?usp=sharing)
 ### Prerequisites
