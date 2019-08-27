@@ -11,7 +11,7 @@ Detection and Docking</h1>
 * [Architechture](#the-architecture-of-t2fgan)
 * [Main Results](#main-results)
   * [The Generated Images](#the-generated-images)
-  * [The Improvement of Detection Performance Brought by T2FGAN](#The Improvement of Detection Performance Brought by T2FGAN)
+  * [The Improvement of Detection Performance Brought by T2FGAN](#The-Improvement-of-Detection-Performance-Brought-by-T2FGAN)
   * [Field Experiments](#field-experiments)
 * [Implementation](#Implementation)
   * [Prerequists](#Prerequists)
