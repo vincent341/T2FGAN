@@ -7,9 +7,7 @@ Detection and Docking</h1>
 <h4 align="center">by <a href="https://github.com/vincent341/ShuangLiu.cv/blob/master/Resume.md">Shuang Liu</a>, Mete Ozay, Hongli Xu, Yang Lin, Okatani Takayuki</h4>
 
 <!-- [![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC) -->
-<video width="320" height="240" controls>
-    <source src="assets/t2fgan_compress.mp4" type="video/mp4">
-</video>
+![demo](assets/t2fgan_compress.mp4) 
 
 ## Table of Contents
 * [Introduction](#Introduction)
