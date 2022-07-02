@@ -6,9 +6,10 @@ A Generative Model of Underwater Images for Active Landmark
 Detection and Docking</h1>
 <h4 align="center">by <a href="https://github.com/vincent341/ShuangLiu.cv/blob/master/Resume.md">Shuang Liu</a>, Mete Ozay, Hongli Xu, Yang Lin, Okatani Takayuki</h4>
 
-<!-- [![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC) -->
-[![Watch the video](assets/t2fgan_compress.mp4)
+<!-- [![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC)  -->
 
+
+https://user-images.githubusercontent.com/23233861/176991336-c6b63a7a-1c1c-4e9c-a036-0f47c864eb99.mp4
 
 ## Table of Contents
 * [Introduction](#Introduction)
