@@ -8,8 +8,8 @@ Detection and Docking</h1>
 
 <!-- [![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC)  -->
 
-
-https://user-images.githubusercontent.com/23233861/176991336-c6b63a7a-1c1c-4e9c-a036-0f47c864eb99.mp4
+[![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)]([https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC](https://user-images.githubusercontent.com/23233861/176991336-c6b63a7a-1c1c-4e9c-a036-0f47c864eb99.mp4))
+<!-- https://user-images.githubusercontent.com/23233861/176991336-c6b63a7a-1c1c-4e9c-a036-0f47c864eb99.mp4 -->
 
 ## Table of Contents
 * [Introduction](#Introduction)
