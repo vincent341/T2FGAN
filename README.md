@@ -7,10 +7,9 @@ Detection and Docking</h1>
 <h4 align="center">by <a href="https://github.com/vincent341/ShuangLiu.cv/blob/master/Resume.md">Shuang Liu</a>, Mete Ozay, Hongli Xu, Yang Lin, Okatani Takayuki</h4>
 
 <!-- [![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC)  -->
-
-[![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)]([https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC](https://user-images.githubusercontent.com/23233861/176991336-c6b63a7a-1c1c-4e9c-a036-0f47c864eb99.mp4))
-<!-- https://user-images.githubusercontent.com/23233861/176991336-c6b63a7a-1c1c-4e9c-a036-0f47c864eb99.mp4 -->
-
+<center>
+https://user-images.githubusercontent.com/23233861/176991517-74ec933e-4ff7-49d4-aee9-e896f213d439.mp4
+</center>
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Architechture](#the-architecture-of-t2fgan)
