@@ -6,6 +6,8 @@ A Generative Model of Underwater Images for Active Landmark
 Detection and Docking</h1>
 <h4 align="center">by <a href="https://github.com/vincent341/ShuangLiu.cv/blob/master/Resume.md">Shuang Liu</a>, Mete Ozay, Hongli Xu, Yang Lin, Okatani Takayuki</h4>
 
+[![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC)
+
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Architechture](#the-architecture-of-t2fgan)
@@ -69,8 +71,6 @@ T2FGAN was further validated by a vision-based underwater docking (VBUD) task in
 <br>
     <em>Fig. 6: Left: the trajectories of four runs in field experiments. Right: the process of the first run.</em>
 </p>
-
-[![Watch the video](https://github.com/vincent341/T2FGAN/blob/master/assets/videoshot.png)](https://drive.google.com/open?id=1SiVgtwZ7g7BMi8i4mPz5fptAqTC-GnBC)
 
 ## Implementation
 
